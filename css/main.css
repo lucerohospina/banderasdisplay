@@ -1,0 +1,46 @@
+.parte1 {
+   background: #f7b617;
+   height: 100px;
+   display: block;
+   padding: 10px;
+}
+
+#middle {
+  background: #2b2b2b;
+  color: white;
+}
+
+.parte2 {
+  background: #f7b617;
+  height: 100px;
+  display: block;
+  width: 245px;
+  padding: 10px;
+}
+
+.parte3 {
+  background: #f7b617;
+  height: 100px;
+  width: 245px;
+  margin: 10px;
+  padding: 10px;
+}
+
+section {
+  display: flex;
+  flex-direction: row
+}
+
+.parte4 {
+  background: #f7b617;
+  height: 100px;
+  display: inline;
+  margin: 20px;
+  padding: 10px;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  
+}
