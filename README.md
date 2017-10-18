@@ -2,7 +2,7 @@
 ### Como parte de nuestra formación en html y css se nos pide desarrollar el siguiente ejercicio a modo de clase práctica:
 
 
-![sin titulo](assets/images/banderasdisplay.PNG)
+![sin titulo](assets/images/banderasdisplay.png)
 
                       
                       
